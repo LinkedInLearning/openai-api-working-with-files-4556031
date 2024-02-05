@@ -1,7 +1,7 @@
 # OpenAI API: Working with Files
 This is the repository for the LinkedIn Learning course OpenAI API: Working with Files. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-course-url]
+![lil-thumbnail-url]
 
 This course provides an in-depth overview of the OpenAI Files API, which allows you to manage extremely large datasets effectively and efficiently for AI applications. Instructor Fikayo Adepoju covers the basics of the Files API including how to configure and set up your development environment as well as how to upload, manage, store, and utilize files.
 
